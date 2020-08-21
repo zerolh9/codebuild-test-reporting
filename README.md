@@ -44,6 +44,3 @@ To generate the reports, run
 Related doc: https://testng.org/doc/documentation-main.html#annotations
 
 
-
-
-
